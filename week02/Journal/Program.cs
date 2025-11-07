@@ -5,7 +5,7 @@ using System;
 // - Added extra prompts above the minimum.
 // - Robust file handling with clear messages.
 // - Safe custom separator and newline cleaning in saved data.
-// If you used any web page for help, paste links here.
+// External help used: https://www.w3schools.com/cs/cs_abstract.php
 
 
 class Program
