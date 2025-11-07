@@ -1,5 +1,13 @@
 using System;
 
+// W02 Project: Journal Program
+// Exceeds requirements (brief notes):
+// - Added extra prompts above the minimum.
+// - Robust file handling with clear messages.
+// - Safe custom separator and newline cleaning in saved data.
+// If you used any web page for help, paste links here.
+
+
 class Program
 {
     static void Main(string[] args)
