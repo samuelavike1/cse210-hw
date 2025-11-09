@@ -4,10 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        var f1 = new Fraction();       // 1/1
-        var f2 = new Fraction(5);      // 5/1
-        var f3 = new Fraction(3, 4);   // 3/4
-        var f4 = new Fraction(1, 3);   // 1/3
+        var f1 = new Fraction();
+        var f2 = new Fraction(5);
+        var f3 = new Fraction(3, 4);
+        var f4 = new Fraction(1, 3);
 
         Console.WriteLine(f1.GetFractionString());
         Console.WriteLine(f1.GetDecimalValue());
