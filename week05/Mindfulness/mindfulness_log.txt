@@ -1,0 +1,5 @@
+2025-11-24 19:35:19	Breathing	30	BreathCycles=8
+2025-11-28 18:51:55	Reflecting	30	QuestionsAsked=4
+2025-11-28 18:56:48	Reflecting	30	QuestionsAsked=4
+2025-11-28 18:58:33	Listing	30	ItemsListed=1;Prompt="When have you felt the Holy Ghost this month?"
+2025-11-28 18:59:46	Gratitude	30	GratitudeItems=3
