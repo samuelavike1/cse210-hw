@@ -1,0 +1,5 @@
+120
+SimpleGoal:Make money|I want to be financial stable|10|True
+EternalGoal:Graduate with first class honour|I want to graduate my degree with first class honours|100
+ChecklistGoal:Buy my smart phone|I want to buy a smartphone which will aid my learning experience|100|1|2|5
+SimpleGoal:Classes programming|i want to get better with programming |10|True
